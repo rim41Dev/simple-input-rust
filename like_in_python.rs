@@ -9,5 +9,5 @@ fn input2(text: &str, err: &str) -> String {
 
 fn main() {
     let some_text: String = input("Write some text: ", "Error");
-    println!("{}", some_text)
+    println!("{}", some_text);
 }
